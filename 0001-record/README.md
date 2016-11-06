@@ -1,13 +1,9 @@
 STARTING OFF:
 Make sure you have npm installed.
 
-Install webpack and http-server:
-```
-$ npm install
-```
-
 Run:
 ```
+$ npm install
 $ npm start
 ```
 
@@ -20,4 +16,4 @@ Record:
 
 RESOURCES:
 * https://github.com/davidwparker/programmingtil-immutablejs/tree/master/0001-record
-https://facebook.github.io/immutable-js/docs/#/Record
+* https://facebook.github.io/immutable-js/docs/#/Record
