@@ -1,16 +1,15 @@
 {
-  "name": "0001-record",
+  "name": "0002-range-repeat",
   "version": "1.0.0",
-  "description": "Immutable Record",
+  "description": "Immutable Range and Repeat",
   "author": "David Parker",
   "private": true,
   "main": "index.js",
   "keywords": [
-    "immutablejs",
-    "webpack"
+    "immutablejs"
   ],
   "scripts": {
-    "start": "webpack-dev-server --progress --colors --watch"
+    "start": "webpack && node bundle.js"
   },
   "babel": {
     "presets": [
@@ -34,7 +33,6 @@
     "watchify": "^3.7.0"
   },
   "devDependencies": {
-    "webpack": "^1.13.1",
-    "webpack-dev-server": "^1.14.1"
+    "webpack": "^1.13.1"
   }
 }
