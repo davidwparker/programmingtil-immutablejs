@@ -1,7 +1,7 @@
 {
-  "name": "0002-range-repeat",
+  "name": "0004-seq-part-2",
   "version": "1.0.0",
-  "description": "Immutable Range and Repeat",
+  "description": "Immutable API Seq",
   "author": "David Parker",
   "private": true,
   "main": "index.js",
