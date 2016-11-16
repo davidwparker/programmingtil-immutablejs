@@ -1,7 +1,7 @@
 {
-  "name": "0004-seq-part-2",
+  "name": "0004-itorator-part-2",
   "version": "1.0.0",
-  "description": "Immutable API Seq",
+  "description": "Immutable API Iterator",
   "author": "David Parker",
   "private": true,
   "main": "index.js",
