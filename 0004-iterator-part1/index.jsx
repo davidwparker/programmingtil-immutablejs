@@ -29,7 +29,7 @@ console.log('includes:', a.includes(123));
 console.log('includes:', a.includes(456));
 
 // first(): V
-console.log('first:', a.includes());
+console.log('first:', a.first());
 
 // last(): V
 console.log('last:', a.last());
