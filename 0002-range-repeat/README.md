@@ -8,7 +8,7 @@ $ npm install
 $ npm start
 ```
 
-View at: http://localhost:8080/
+View in console.
 
 ## CONCEPTS:
 

@@ -8,11 +8,12 @@ $ npm install
 $ npm start
 ```
 
-View at: http://localhost:8080/
+View in console.
 
 ## CONCEPTS:
 
 ImmutableJS
+
 Record:
 *  A record is similar to a JS object, but enforce a specific set of allowed string keys, and have default values.
 
