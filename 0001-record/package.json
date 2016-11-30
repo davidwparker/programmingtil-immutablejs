@@ -10,7 +10,7 @@
     "webpack"
   ],
   "scripts": {
-    "start": "webpack-dev-server --progress --colors --watch"
+    "start": "webpack && node bundle.js"
   },
   "babel": {
     "presets": [

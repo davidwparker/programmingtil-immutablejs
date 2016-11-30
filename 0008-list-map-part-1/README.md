@@ -8,7 +8,7 @@ $ npm install
 $ npm start
 ```
 
-View at: http://localhost:8080/
+View in console.
 
 ## CONCEPTS:
 
@@ -24,3 +24,4 @@ Unlike a JavaScript Array, there is no distinction between an "unset" index and 
 
 * https://github.com/davidwparker/programmingtil-immutablejs/tree/master/0008-list-part-1
 * https://facebook.github.io/immutable-js/docs/#/List
+* https://facebook.github.io/immutable-js/docs/#/Map
