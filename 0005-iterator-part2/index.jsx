@@ -60,8 +60,8 @@ console.log('values:', a.values());
 console.log('entries:', a.entries());
 console.log('');
 
-// Iterators (Seq)
-console.log('Iterators');
+// Iterables (Seq)
+console.log('Iterables');
 // keySeq(): Iterator<K>
 console.log('keySeq:', a.keySeq());
 
